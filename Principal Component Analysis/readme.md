@@ -39,8 +39,8 @@ Within the folder "Imagens_Separadas" there were the folders of the classes "Par
 In this way, the directory will be defined as follows:
 - Project codes
 - Separate Images
-- Parasitized
-- Uninfected
+	- Parasitized
+	- Uninfected
 
 It is also necessary to modify the variable path (line 15 file main.m) for the current project directory.
 
